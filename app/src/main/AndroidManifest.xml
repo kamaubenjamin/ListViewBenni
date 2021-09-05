@@ -21,10 +21,12 @@
         </intent-filter>
 
         </activity>
-<activity
-    android:name=".MainActivity">
 
-</activity>
+        <activity android:name=".MainActivity"/>
+        <activity android:name=".Models.Android"/>
+        <activity android:name=".Models.BlackBerry"/>
+        <activity android:name=".Models.Iphone"/>
+        <activity android:name=".Models.Windowsphone"/>
     </application>
 
 </manifest>

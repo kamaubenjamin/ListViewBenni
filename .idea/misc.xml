@@ -3,10 +3,14 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/A$AP-BEN/AndroidStudioProjects/sqlite/ListView/app/src/main/res/layout/acrivity_blackberry.xml" value="0.1" />
+        <entry key="..\:/Users/A$AP-BEN/AndroidStudioProjects/sqlite/ListView/app/src/main/res/layout/activity_android.xml" value="0.1" />
+        <entry key="..\:/Users/A$AP-BEN/AndroidStudioProjects/sqlite/ListView/app/src/main/res/layout/activity_iphone.xml" value="0.12" />
         <entry key="..\:/Users/A$AP-BEN/AndroidStudioProjects/sqlite/ListView/app/src/main/res/layout/activity_launcher.xml" value="0.1" />
         <entry key="..\:/Users/A$AP-BEN/AndroidStudioProjects/sqlite/ListView/app/src/main/res/layout/activity_list_view.xml" value="0.11458333333333333" />
         <entry key="..\:/Users/A$AP-BEN/AndroidStudioProjects/sqlite/ListView/app/src/main/res/layout/activity_listview.xml" value="0.1" />
         <entry key="..\:/Users/A$AP-BEN/AndroidStudioProjects/sqlite/ListView/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/A$AP-BEN/AndroidStudioProjects/sqlite/ListView/app/src/main/res/layout/activity_windows_phone.xml" value="0.1" />
       </map>
     </option>
   </component>
